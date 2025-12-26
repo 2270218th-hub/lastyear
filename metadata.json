@@ -1,0 +1,8 @@
+
+{
+  "name": "Lucky Wheel - Vòng Quay May Mắn",
+  "description": "A high-performance, interactive lucky wheel application with participant management, custom prize settings, and engaging win animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
